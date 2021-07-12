@@ -1,6 +1,6 @@
 <?php
 $pageTitleIcon = '<i class="far fa-id-card"></i>';
-$pageTitle = "주인장소개";
+$pageTitle = "내 소개";
 ?>
 <?php require_once __DIR__ . "/../head.php"; ?>
 <?php require_once __DIR__ . "/../../part/toastUiSetup.php"; ?>
@@ -8,7 +8,7 @@ $pageTitle = "주인장소개";
 <section class="section-about-me">
   <div class="container mx-auto">
     <div class="con-pad">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, quasi atque tempora beatae dicta odit sequi nostrum at assumenda quibusdam illum neque tenetur fuga facilis dolorum recusandae ad molestias temporibus.
+      안녕하세요. 저는 웹개발자를 꿈꾸는 조성범입니다.
     </div>
   </div>
 </section>
