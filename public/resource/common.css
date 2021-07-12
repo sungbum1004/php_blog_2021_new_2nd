@@ -31,6 +31,11 @@ html>body .tui-editor-contents {
   padding: 0 1rem;
 }
 
+.top-bar {
+  position: fixed;
+  z-index: 100;
+}
+
 .top-bar,
 .bottom-bar {
   background-color: #36336d;
